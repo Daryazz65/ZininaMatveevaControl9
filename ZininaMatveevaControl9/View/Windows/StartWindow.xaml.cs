@@ -42,8 +42,8 @@ namespace ZininaMatveevaControl9.View.Windows
 
         private void Hyperlink_Click_2(object sender, RoutedEventArgs e)
         {
-            MainFrm.Navigate(new Journal  Page());
-
+            MainFrm.Navigate(new JournalPage());
+            //сми
         }
     }
 }
